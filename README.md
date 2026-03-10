@@ -28,19 +28,24 @@ We utilized the **NSL-KDD dataset**, a refined version of the KDD Cup 1999 datas
 6. **Model Testing & Evaluation:** Evaluated on unseen data using standard performance metrics.
 
 ## System Architecture
-*(Note: Upload your block diagram to an `images` folder in this repo for the image to display)*
+
 ![Block Diagram](images/block_diagram.png)
 
 ## Results and Evaluation
 The Random Forest model achieved exceptionally high accuracy in detecting cyber attacks. Performance was measured using Accuracy, Precision, Recall, F1-Score, Confusion Matrix, and ROC Curve.
 
 ### Performance Visualizations
-*(Note: Upload your result screenshots to the `images` folder in this repo for the images to display)*
+
 * **Accuracy:**
+  
 ![Accuracy Report](images/accuracy.png)
+
 * **Confusion Matrix:**
+  
 ![Confusion Matrix](images/confusion_matrix.png)
+
 * **ROC Curve:**
+  
 ![ROC Curve](images/roc_curve.png)
 
 ## Tools and Technologies Used
