@@ -57,3 +57,4 @@ The Random Forest model achieved exceptionally high accuracy in detecting cyber 
 1. Clone this repository:
    ```bash
    git clone [https://github.com/CodeWith-AR/MachineLearning-Intrusion-Detection-System.git](https://github.com/CodeWith-AR/MachineLearning-Intrusion-Detection-System.git)
+--
