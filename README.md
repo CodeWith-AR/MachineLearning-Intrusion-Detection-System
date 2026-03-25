@@ -1,4 +1,4 @@
-# Machine Learning Based Cyber-Attack Detection System 🛡️
+# Machine Learning Based Cyber-Attack Detection System
 
 ## Problem Statement
 Design a machine learning-based approach to identify Cyber Attacks.
